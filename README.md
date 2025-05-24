@@ -1,5 +1,5 @@
 # FlashLightUnity
-An Advanced Flashlight to make your game faster.
+A complete, customizable flashlight system for your Unity game — with energy, flicker effects, and input handling, just like in Outlast!
 
 ### How To Use:
 - Download the Script folder and import it.
