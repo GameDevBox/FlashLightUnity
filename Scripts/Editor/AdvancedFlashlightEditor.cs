@@ -1,3 +1,16 @@
+/*
+ * BoxRaycastSampler.cs
+ * Created by Arian - GameDevBox
+ * YouTube Channel: https://www.youtube.com/@GameDevBox
+ *
+ * 🎮 Want more Unity tips, tools, and advanced systems?
+ * 🧠 Learn from practical examples and well-explained logic.
+ * 📦 Subscribe to GameDevBox for more game dev content!
+ *
+ * This script performs a BoxCast from the camera and visualizes the cast 
+ * in the Scene and Game view using Debug.DrawLine and Gizmos.
+ */
+
 using UnityEditor;
 using UnityEngine;
 
