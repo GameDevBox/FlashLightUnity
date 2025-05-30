@@ -1,3 +1,15 @@
+/*
+ * AdvancedFlashlight.cs
+ * Created by Arian - GameDevBox
+ * YouTube Channel: https://www.youtube.com/@GameDevBox
+ *
+ * 🎮 Want more Unity tips, tools, and advanced systems?
+ * 🧠 Learn from practical examples and well-explained logic.
+ * 📦 Subscribe to GameDevBox for more game dev content!
+ *
+ * Ultimate Flashlight with flickering, sounds, battery (Energy)
+ */
+
 using UnityEngine;
 using System.Collections;
 
