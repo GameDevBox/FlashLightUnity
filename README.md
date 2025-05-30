@@ -10,7 +10,7 @@ A complete, customizable flashlight system for your Unity game — with energy, 
 
 - Call the AddEnergy function from your batteries.
 
-- Watch the YouTube tutorial. (https://youtu.be/wgo4r7EFazA)
+- Watch the YouTube tutorial. (https://youtu.be/jfgUotZXiBM)
 
 Just a guy making games.
 Exploring the world of game development with Unity tutorials, coding tips, and shader magic, and fixing bugs.
@@ -19,7 +19,7 @@ game-related, sometimes not.
 
 🔥follow my YouTube @GameDevBox to find more Tutorials and Tips: [GameDevBox](https://www.youtube.com/@GameDevBox)
 
-🔥See the tutorial for how you can set it up: https://youtu.be/wgo4r7EFazA
+🔥See the tutorial for how you can set it up: https://youtu.be/jfgUotZXiBM
 
 ## Social Media: 
 • [X/Twitter](https://x.com/ArianKhatiban)
